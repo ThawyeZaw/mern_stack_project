@@ -1,5 +1,7 @@
 package-lock.json
 
+.env
+
 node_modules
 
 mern_stack_project.code-workspace
